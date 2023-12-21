@@ -15,10 +15,10 @@ used in this project assume the existence of a python virtual environnement that
 through: 
 source $ENV/bin/activate 
 where $ENV is where the environnement is located. This python environnement has to have the following 
-modules isntalled and active:  
+modules installed and active:  
 readgadget and MAS_library from Pylians https://pylians3.readthedocs.io/en/master/
 scipy, numpy, matplotlib, pandas, astropy
-From vieo making: 
+From video making: 
 opencv 
 
 # Data requirements 
